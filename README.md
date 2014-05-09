@@ -1,6 +1,8 @@
 # Salted
 ## A responsive email template
 
+<div style="border: 1px solid #ccc; background: #eee; padding: 1em;">This is a fork of Jason Rodriguez' <a href="https://github.com/rodriguezcommaj/salted">original repo</a>, featured in his A List Apart article, <a href="http://alistapart.com/article/can-email-be-responsive/">Can Email Be Responsive?</a></div>
+
 Creating HTML email that renders well across most clients is surprisingly hard, especially when you want it to be responsive. Salted is a responsive email template that tries to make things easier.
 
 Based on code originally developed by [Kevin Mandeville](http://twitter.com/KEVINgotbounce) and used in the [Litmus](http://litmus.com) email newsletters, Salted provides a base on which to build responsive HTML emails.
